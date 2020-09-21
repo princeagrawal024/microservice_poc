@@ -1,0 +1,12 @@
+package com.springcloud.couponservice.model;
+
+import java.math.BigDecimal;
+
+public class Coupon {
+	
+	private long id;
+	private String code;
+	private BigDecimal expDate;
+	
+
+}

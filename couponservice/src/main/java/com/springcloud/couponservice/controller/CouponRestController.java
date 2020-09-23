@@ -2,6 +2,7 @@ package com.springcloud.couponservice.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -17,7 +18,7 @@ public class CouponRestController {
 	@Autowired
 	CouponRepo repo;
 	
-	@RequestMapping(value = "/coupon", method = RequestMethod.POST)
+	@RequestMapping(value = "/coupons", method = RequestMethod.POST)
 	public Coupon create(@RequestBody Coupon coupon) {
 		
 		return repo.save(coupon);

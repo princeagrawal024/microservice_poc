@@ -15,7 +15,6 @@ public class Coupon {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long id;
-	
 	private String code;
 	private BigDecimal discount;
 	private String expDate;

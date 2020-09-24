@@ -6,6 +6,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.Transient;
 
 @Entity
 public class Product {
@@ -16,6 +17,8 @@ public class Product {
 	private String name;
 	private String description;
 	private BigDecimal price;
+	@Transient  //so that ORM (Hibernate) will ignore this field when Product is saved to database
+	private String couponCode;
 	
 	
 	
@@ -46,6 +49,12 @@ public class Product {
 	}
 	public void setPrice(BigDecimal price) {
 		this.price = price;
+	}
+	public String getCouponCode() {
+		return couponCode;
+	}
+	public void setCouponCode(String couponCode) {
+		this.couponCode = couponCode;
 	}
 	
 	

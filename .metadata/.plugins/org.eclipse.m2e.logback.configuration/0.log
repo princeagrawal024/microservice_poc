@@ -1758,3 +1758,426 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2020-09-25 18:48:23,076 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-09-25 18:48:23,078 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-25 18:48:23,078 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:07:11,471 [Worker-104: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:07:12,982 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:07:12,983 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:07:12,983 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:07:12,984 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:07:12,984 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:07:16,577 [Worker-104: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:07:17,689 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:07:17,691 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:07:17,691 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:07:17,695 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:07:17,695 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:07:41,002 [Worker-99: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:07:42,593 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:07:42,598 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:07:42,598 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:07:42,601 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:07:42,601 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:08:26,935 [Worker-100: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:08:28,334 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:08:28,338 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:08:28,338 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:08:28,340 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:08:28,340 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:08:54,915 [Worker-100: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:08:56,632 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:08:56,636 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:08:56,636 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:08:56,638 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:08:56,638 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:09:26,061 [Worker-104: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:09:27,275 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:09:27,278 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:09:27,279 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:09:27,281 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:09:27,281 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:10:19,589 [Worker-106: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:10:21,623 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:10:21,630 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:10:21,630 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:10:21,635 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:10:21,635 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:10:23,505 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:10:23,512 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:10:23,544 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:10:23,564 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:10:23,564 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:11:12,412 [Worker-99: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:11:13,896 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:11:13,900 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:11:13,900 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:11:13,903 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:11:13,904 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:11:15,570 [Worker-106: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:11:16,845 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:11:16,858 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:11:16,860 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:11:16,865 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:11:16,865 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:11:18,631 [Worker-105: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:11:20,283 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:11:20,292 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:11:20,292 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:11:20,301 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:11:20,302 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:11:29,279 [Worker-106: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:11:30,197 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:11:30,200 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:11:30,201 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:11:30,203 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:11:30,203 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:12:11,566 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:12:11,576 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:12:11,592 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:12:11,594 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:12:11,594 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:15:47,843 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:15:47,845 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:15:47,857 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:15:47,860 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:15:47,860 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:16:00,278 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:16:00,279 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:16:00,284 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:16:00,298 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:16:00,299 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:16:02,925 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:16:02,926 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:16:02,928 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:16:02,933 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:16:02,933 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:16:19,768 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:16:19,768 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:16:19,769 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:16:19,771 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:16:19,771 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:16:39,743 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:16:39,745 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:16:39,747 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:16:39,749 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:16:39,749 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:16:43,311 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:16:43,312 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:16:43,313 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:16:43,315 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:16:43,315 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:16:54,119 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:16:54,119 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:16:54,120 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:16:54,125 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:16:54,125 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:17:25,826 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:17:25,826 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:17:25,827 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:17:25,829 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:17:25,829 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:17:48,939 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:17:48,939 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:17:48,943 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:17:48,945 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:17:48,945 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:18:01,954 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:18:01,955 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:18:01,956 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:18:01,959 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:18:01,959 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:18:08,457 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:18:08,460 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:18:08,462 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:18:08,464 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:18:08,465 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:18:49,211 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:18:49,214 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:18:49,216 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:18:49,218 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:18:49,218 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:20:23,678 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:20:23,685 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:20:23,693 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:20:23,696 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:20:23,696 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:20:27,667 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:20:27,668 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:20:27,669 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:20:27,673 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:20:27,673 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:20:40,108 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:20:40,110 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:20:40,111 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:20:40,115 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:20:40,115 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:20:46,627 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:20:46,628 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:20:46,633 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:20:46,636 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:20:46,636 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:29:35,280 [Worker-74: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:29:36,801 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:29:36,805 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:29:36,805 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:29:36,808 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:29:36,808 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:29:45,148 [Worker-74: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:29:47,622 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:29:47,630 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:29:47,630 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:29:47,633 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:29:47,633 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:30:15,248 [Worker-109: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:30:17,425 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:30:17,430 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:30:17,451 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:30:17,454 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:30:17,454 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:30:34,228 [Worker-115: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:30:35,072 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:30:35,075 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:30:35,076 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:30:35,077 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:30:35,078 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:30:42,637 [Worker-109: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:30:44,979 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:30:44,984 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:30:44,984 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:30:44,987 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:30:44,987 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:31:09,726 [Worker-79: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:31:16,545 [Worker-118: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-starter-netflix-hystrix-dashboard-2.2.5.RELEASE.pom
+2020-09-25 19:31:16,613 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-starter-netflix-hystrix-dashboard-2.2.5.RELEASE.pom
+2020-09-25 19:31:18,045 [Worker-118: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-starter-netflix-hystrix-dashboard-2.2.5.RELEASE.pom
+2020-09-25 19:31:18,368 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-starter-netflix-hystrix-dashboard-2.2.5.RELEASE.pom
+2020-09-25 19:31:19,821 [Worker-118: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-netflix-hystrix-dashboard-2.2.5.RELEASE.pom
+2020-09-25 19:31:20,165 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-netflix-hystrix-dashboard-2.2.5.RELEASE.pom
+2020-09-25 19:31:22,115 [Worker-118: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-netflix-hystrix-dashboard-2.2.5.RELEASE.pom
+2020-09-25 19:31:22,605 [Worker-118: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/3.4.1/jquery-3.4.1.pom
+2020-09-25 19:31:22,898 [Worker-118: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/3.4.1/jquery-3.4.1.pom
+2020-09-25 19:31:23,180 [Worker-118: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/d3js/3.4.11/d3js-3.4.11.pom
+2020-09-25 19:31:23,488 [Worker-118: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/d3js/3.4.11/d3js-3.4.11.pom
+2020-09-25 19:31:23,760 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-netflix-hystrix-dashboard-2.2.5.RELEASE.pom
+2020-09-25 19:31:23,784 [Worker-118: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-starter-netflix-hystrix-dashboard-2.2.5.RELEASE.jar
+2020-09-25 19:31:24,077 [Worker-118: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-starter-netflix-hystrix-dashboard-2.2.5.RELEASE.jar
+2020-09-25 19:31:24,086 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-starter-netflix-hystrix-dashboard-2.2.5.RELEASE.jar
+2020-09-25 19:31:24,372 [Worker-118: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-netflix-hystrix-dashboard-2.2.5.RELEASE.jar
+2020-09-25 19:31:24,964 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-starter-netflix-hystrix-dashboard-2.2.5.RELEASE.jar
+2020-09-25 19:31:26,242 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-netflix-hystrix-dashboard-2.2.5.RELEASE.jar
+2020-09-25 19:31:30,656 [Worker-118: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-netflix-hystrix-dashboard-2.2.5.RELEASE.jar
+2020-09-25 19:31:31,347 [Worker-118: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/3.4.1/jquery-3.4.1.jar
+2020-09-25 19:31:50,919 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-netflix-hystrix-dashboard-2.2.5.RELEASE.jar
+2020-09-25 19:31:51,809 [Worker-118: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/3.4.1/jquery-3.4.1.jar
+2020-09-25 19:31:52,333 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/3.4.1/jquery-3.4.1.jar
+2020-09-25 19:31:53,151 [Worker-118: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/d3js/3.4.11/d3js-3.4.11.jar
+2020-09-25 19:32:01,071 [Worker-118: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/d3js/3.4.11/d3js-3.4.11.jar
+2020-09-25 19:32:15,384 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/3.4.1/jquery-3.4.1.jar
+2020-09-25 19:32:15,912 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/d3js/3.4.11/d3js-3.4.11.jar
+2020-09-25 19:32:17,597 [Worker-79: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/d3js/3.4.11/d3js-3.4.11.jar
+2020-09-25 19:32:18,479 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:32:18,485 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:32:18,486 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:32:18,488 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:32:18,489 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:32:18,770 [Worker-117: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/ProductService/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:798) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$2.call(ProjectRegistryManager.java:1001) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$2.call(ProjectRegistryManager.java:1) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:5065) ~[na:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) ~[na:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:5060) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:999) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) ~[org.eclipse.m2e.core.ui_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:740) ~[na:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1074) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2020-09-25 19:32:19,135 [Worker-79: Building workspace] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559) ~[org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:568) ~[org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:537) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:493) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:349) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:296) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.300.v20190218-2100.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.300.v20190218-2100.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...\n\t\t\n\t\thystrix-dashboard is used for showing Hystrix DashBoard\n\t\t<d... @66:5) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114) ~[maven-model-builder-3.5.3.jar:3.5.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82) ~[maven-model-builder-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:557) ~[org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...\n\t\t\n\t\thystrix-dashboard is used for showing Hystrix DashBoard\n\t\t<d... @66:5) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1307) ~[plexus-utils-3.1.0.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2231) ~[maven-model-3.5.3.jar:3.5.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3852) ~[maven-model-3.5.3.jar:3.5.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[maven-model-3.5.3.jar:3.5.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109) ~[maven-model-builder-3.5.3.jar:3.5.3]
+	... 26 common frames omitted
+2020-09-25 19:32:20,318 [Worker-119: Building workspace] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559) ~[org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:568) ~[org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:537) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:493) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:349) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:296) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.300.v20190218-2100.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.300.v20190218-2100.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...\n\t\t\n\t\thystrix-dashboard is used for showing Hystrix DashBoard\n\t\t<d... @66:5) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114) ~[maven-model-builder-3.5.3.jar:3.5.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82) ~[maven-model-builder-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:557) ~[org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...\n\t\t\n\t\thystrix-dashboard is used for showing Hystrix DashBoard\n\t\t<d... @66:5) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1307) ~[plexus-utils-3.1.0.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2231) ~[maven-model-3.5.3.jar:3.5.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3852) ~[maven-model-3.5.3.jar:3.5.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[maven-model-3.5.3.jar:3.5.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109) ~[maven-model-builder-3.5.3.jar:3.5.3]
+	... 26 common frames omitted
+2020-09-25 19:32:21,880 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-starter-netflix-hystrix-dashboard-2.2.5.RELEASE-sources.jar
+2020-09-25 19:32:21,883 [Worker-118: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-netflix-hystrix-dashboard:2.2.5.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-hystrix-dashboard:jar:sources:2.2.5.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:169) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2020-09-25 19:32:21,884 [Worker-118: Download sources and javadoc] WARN  o.e.m.j.internal.DownloadSourcesJob - IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/ProductService
+2020-09-25 19:32:22,333 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-netflix-hystrix-dashboard-2.2.5.RELEASE-sources.jar
+2020-09-25 19:32:24,538 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-netflix-hystrix-dashboard-2.2.5.RELEASE-sources.jar
+2020-09-25 19:32:24,564 [Worker-118: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-hystrix-dashboard:2.2.5.RELEASE
+2020-09-25 19:32:24,565 [Worker-118: Download sources and javadoc] WARN  o.e.m.j.internal.DownloadSourcesJob - IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/ProductService
+2020-09-25 19:32:24,830 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/3.4.1/jquery-3.4.1-sources.jar
+2020-09-25 19:32:25,108 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/3.4.1/jquery-3.4.1-sources.jar
+2020-09-25 19:32:25,125 [Worker-118: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:jquery:3.4.1
+2020-09-25 19:32:25,125 [Worker-118: Download sources and javadoc] WARN  o.e.m.j.internal.DownloadSourcesJob - IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/ProductService
+2020-09-25 19:32:25,390 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/d3js/3.4.11/d3js-3.4.11-sources.jar
+2020-09-25 19:32:25,663 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/d3js/3.4.11/d3js-3.4.11-sources.jar
+2020-09-25 19:32:25,679 [Worker-118: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:d3js:3.4.11
+2020-09-25 19:32:25,679 [Worker-118: Download sources and javadoc] WARN  o.e.m.j.internal.DownloadSourcesJob - IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/ProductService
+2020-09-25 19:41:31,893 [Worker-121: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:41:33,388 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:41:33,395 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:41:33,395 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:41:33,398 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:41:33,399 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:41:34,843 [Worker-123: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:41:34,848 [Worker-123: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:41:34,876 [Worker-123: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:41:34,880 [Worker-123: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:41:34,880 [Worker-123: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:41:37,210 [Worker-122: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix-dashboard/2.2.5.RELEASE/spring-cloud-starter-netflix-hystrix-dashboard-2.2.5.RELEASE-javadoc.jar
+2020-09-25 19:41:37,212 [Worker-122: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.cloud:spring-cloud-starter-netflix-hystrix-dashboard:2.2.5.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-hystrix-dashboard:jar:javadoc:2.2.5.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:265) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2020-09-25 19:50:26,783 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:50:26,787 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:50:26,790 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:50:26,792 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:50:26,793 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:51:48,670 [Worker-126: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:51:48,672 [Worker-126: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:51:48,673 [Worker-126: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:51:48,675 [Worker-126: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:51:48,675 [Worker-126: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:57:21,538 [Worker-129: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-25 19:57:22,658 [Worker-129: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud:ProductService:0.0.1-SNAPSHOT @ /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/pom.xml.
+2020-09-25 19:57:24,141 [Worker-129: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/main/java
+2020-09-25 19:57:24,141 [Worker-129: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2020-09-25 19:57:24,142 [Worker-129: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2020-09-25 19:57:24,142 [Worker-129: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/test/java
+2020-09-25 19:57:24,760 [Worker-129: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2020-09-25 19:57:26,002 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:57:26,003 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:57:26,031 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:57:26,037 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:57:26,037 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 19:59:27,828 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:59:27,830 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 19:59:27,831 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 19:59:27,833 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 19:59:27,833 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 20:06:40,154 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 20:06:40,157 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 20:06:40,160 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 20:06:40,162 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 20:06:40,162 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ZuulProxy/src/test/resources
+2020-09-25 20:12:49,507 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 20:12:49,509 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 20:12:49,510 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 20:12:49,512 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 20:12:49,512 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources
+2020-09-25 20:16:09,769 [Worker-126: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 20:16:09,772 [Worker-126: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 20:16:09,773 [Worker-126: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 20:16:09,775 [Worker-126: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 20:16:09,776 [Worker-126: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService/src/test/resources

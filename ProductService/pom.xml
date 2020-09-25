@@ -21,22 +21,31 @@
 		<maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
 	</properties>
 
+	<!-- netflix-eureka-client is for making this Product service available 
+		to Eureka client -->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
 		</dependency>
-		
-		<!-- openfeign is for calling microservces -->
+
+		<!-- openfeign is for calling microservces similar to restClient -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-openfeign</artifactId>
 		</dependency>
-		
+
 		<!-- ribbon is for client side load balancing -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-ribbon</artifactId>
+		</dependency>
+
+		<!-- hystrix is for fault tolerance and exception handling, and returning 
+			valid error message or blank response to client instead to errors -->
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-netflix-hystrix</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -45,6 +54,18 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+		
+		<!-- Actuator(Health Metrics) is used by Hytrix  -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
+		</dependency>
+		
+		<!-- hystrix-dashboard is used for showing Hystrix DashBoard -->
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-netflix-hystrix-dashboard</artifactId>
 		</dependency>
 
 		<dependency>

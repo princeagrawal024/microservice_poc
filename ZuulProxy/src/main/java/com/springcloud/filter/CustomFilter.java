@@ -35,9 +35,9 @@ public class CustomFilter extends ZuulFilter {
 	 */
 	@Override
 	public Object run() throws ZuulException {
-		RequestContext context = RequestContext.getCurrentContext();
-		HttpServletRequest request = context.getRequest();
-		logger.info(String.format("%s request to %s", request.getMethod(),request.getRequestURL()));
+		//RequestContext context = RequestContext.getCurrentContext();
+		//HttpServletRequest request = context.getRequest();
+		//logger.info(String.format("%s request to %s", request.getMethod(),request.getRequestURL()));
 		return null;
 	}
 

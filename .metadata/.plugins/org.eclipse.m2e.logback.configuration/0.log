@@ -2930,3 +2930,4 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2020-09-26 20:14:08,494 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-09-26 20:14:08,508 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-26 20:14:08,508 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ConfigServer/src/test/resources
+2020-09-26 22:03:38,200 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

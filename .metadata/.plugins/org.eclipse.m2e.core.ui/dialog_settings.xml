@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ConfigServer"/>
 			<item value="/Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ZuulProxy"/>
 			<item value="/Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/EurekaServer"/>
 			<item value="/Users/princeagrawal/Downloads/Microservic_WorkSpace_udemy/ProductService"/>
